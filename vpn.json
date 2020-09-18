@@ -1,9 +1,44 @@
 {
     "youknow": [{
-        "country": "PL",
-        "disname": "Poland-1",
-        "asscode": "WzeLpE3vZATQLN4iVGZp",
-        "ip": "82.118.21.232",
+        "country": "US",
+        "disname": "New York-VIP",
+        "asscode": "4pMH8n5mFmRUDYF0R0Dx",
+        "ip": "167.172.29.74",
+        "port": "443",
+        "encrypt": "CHACHA20"
+      },{
+        "country": "US",
+        "disname": "San Jose-VIP",
+        "asscode": "qxFPq7mQd7Tz5R8TzDRG",
+        "ip": "167.99.97.216",
+        "port": "443",
+        "encrypt": "CHACHA20"
+      },{
+        "country": "US",
+        "disname": "US-Netflix",
+        "asscode": "rZ8a2NNfvV5obFwTnYWN",
+        "ip": "50.116.61.128",
+        "port": "14538",
+        "encrypt": "CHACHA20"
+      },{
+        "country": "IN",
+        "disname": "Bangalore-1",
+        "asscode": "4GydV1yMFNXKELGUqu3n",
+        "ip": "68.183.245.97",
+        "port": "443",
+        "encrypt": "CHACHA20"
+      },{
+        "country": "JP",
+        "disname": "Tokyo-VIP",
+        "asscode": "QsWruforYdc7eBp4aaq8",
+        "ip": "172.104.94.166",
+        "port": "443",
+        "encrypt": "CHACHA20"
+      },{
+        "country": "DE",
+        "disname": "Frankfurt-1",
+        "asscode": "ChvAvj3QGFtubsV4P7o5",
+        "ip": "174.138.100.33",
         "port": "443",
         "encrypt": "CHACHA20"
       },{
@@ -14,10 +49,10 @@
         "port": "443",
         "encrypt": "CHACHA20"
       },{
-        "country": "IN",
-        "disname": "Bangalore-1",
-        "asscode": "4GydV1yMFNXKELGUqu3n",
-        "ip": "68.183.245.97",
+        "country": "PL",
+        "disname": "Poland-1",
+        "asscode": "WzeLpE3vZATQLN4iVGZp",
+        "ip": "82.118.21.232",
         "port": "443",
         "encrypt": "CHACHA20"
       },{
